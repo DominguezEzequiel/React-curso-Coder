@@ -5,32 +5,6 @@
 a {
     text-decoration: none;
 }
-header {
-    display: flex;
-    flex-direction: column;
-}
-.headerSearch {
-    background-color: #845EC2;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 100%;
-    padding: 1.3rem 6.5rem;
-}
-.headerSearch span {
-    font-size: 1.7rem;
-    cursor: pointer;
-}
-.headerSearch input {
-    padding: .6rem;
-    padding-right: 10rem;
-    padding-left: 1.2rem;
-    font-size: 1.3rem;
-    border: 1px solid #aaa;
-    border-radius: 5px 5px;
-    outline: none;
-}
-
 
 .menu {
     background-color: #efefef;

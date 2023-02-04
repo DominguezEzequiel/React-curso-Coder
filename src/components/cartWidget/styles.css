@@ -1,0 +1,21 @@
+.cartContainer {
+    display: flex;
+}
+
+.cartWidget{
+    color: white;
+    background-color: #1CBFBC;
+    font-size: 1.6rem;
+    padding: .9rem;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+.cartCount{
+    position: absolute;
+    font-size: 1.2rem;
+    padding: .1rem .6rem;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    background-color: #845EC2;
+}
