@@ -1,0 +1,11 @@
+article {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px;
+    padding: 10px 15px 15px 15px;
+    font-size: 24px;
+}

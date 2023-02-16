@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+.nav li {
+    padding: 0.3rem 1.4rem;
+    font-size: 1.7rem;
+    text-decoration: none;
+    margin: 0 0.3rem;
+}
+
+.nav a:hover{
+    color: #1CBFBC;
+}
+.navLink {
+    text-decoration: none;
+    color: #fff;
+}
+.active {
+    color:#b33;
+    font-weight: bolder;
+}

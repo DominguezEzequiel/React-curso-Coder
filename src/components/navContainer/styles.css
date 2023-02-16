@@ -1,37 +1,9 @@
-.navContainer {
-    background-color: #845EC2;
+nav {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    max-width: 100%;
-    padding-top: 1rem;
-    gap: 1rem;
-}
-
-.inputContainer {
-    display: flex;
-}
-
-.navInput {
-    padding: .6rem 4.5rem;
-    font-size: 1.4rem;
-    outline: none;
-    border: none;
-    border-radius: 5px 0px 0px 5px;
-}
-.inputBtn {
-    color: rgb(212, 212, 212);
-    padding: .5rem 2rem;
-    border: none;
-    border-radius: 0px 5px 5px 0px;
-    background-color: #1CBFBC;
-}
-.inputBtn:hover{
-    background-color: #21d8d5;
-    color: white;
-}
-
-.navBar {
     width: 100%;
-    position:relative;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #845EC2;
+    padding: 1rem;
+    gap: 1rem;
 }

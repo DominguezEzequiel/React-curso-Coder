@@ -1,11 +1,9 @@
 import React from "react";
-import './styles.css'
-
-
+import './styles.css';
 
 const CartWidget = () => {
-    return (
-        <>
+  return (
+    <>
             <div className="cartContainer">
                 <div className="cartWidget">
                     <i class="fa-solid fa-cart-shopping"></i>
@@ -16,7 +14,7 @@ const CartWidget = () => {
 
             </div>
         </>
-    );
+  );
 };
 
 export default CartWidget;

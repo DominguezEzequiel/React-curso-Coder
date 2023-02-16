@@ -1,0 +1,83 @@
+[
+  {
+    "id": "0",
+    "title": "Smart Led Tv 4k 43",
+    "category": "Televisores",
+    "description": "Samsung",
+    "fullDescription": "En casa ves tus películas favoritas gracias a la nueva pantalla de Samsung. Es de 43'' y de color negro para presentar perfecto un estilo vanguardista.",
+    "price": 135.999,
+    "image": "tv43"
+  },
+  {
+    "id": "1",
+    "title": "Smart Led Tv 4k 50",
+    "category": "Televisores",
+    "description": "Samsung",
+    "fullDescription": "El diseño de este modelo cuenta con una resolución de 3840 x 2160 3 entradas HDMI + 1 USB por las que podés conectar dispositivos como computadoras o consolas.",
+    "price": 154.999,
+    "image": "tv50"
+  },
+  {
+    "id": "2",
+    "title": "Smart Neo Qled TV 8K 75",
+    "category": "Televisores",
+    "description": "Samsung",
+    "fullDescription": "En casa ves tus películas favoritas gracias a la nueva pantalla de Samsung. Es de 43'' y de color negro para presentar perfecto un estilo vanguardista.",
+    "price": 399.999,
+    "image": "tv8k"
+  },
+  {
+    "id": "3",
+    "title": "Samsung S23 Phantom Black",
+    "category": "Celulares",
+    "description": "8GB 128GB 5g SM-S911BZKLARO",
+    "fullDescription": "Sku 726001. Memoria Ram: 8GB. Almacenamiento: 128GB. Procesador: QUALCOMM SNAPDRAGON 8gen 2. Bateria: 3900 Mah. Pantalla: 6.1 FHD + 48-120Hz. Camara Principal: 50+12+10mp. Camara Frontal: 12Mp. SM-S911BZKLARO",
+    "price": 319.999,
+    "image": "celu1"
+},
+  {
+    "id": "4",
+    "title": "Motorola Edge 30 Fusion Blanco",
+    "category": "Celulares",
+    "description": "12GB 256GB 5g",
+    "fullDescription": "¿Buscás un celular nuevo? La tecnología llegá a la palma de tus manos con el nuevo celular Motorola Edge 30 Fusion. El modelo se presenta en color blanco con memoria de almacenamiento de 256 GB.",
+    "price": 219.999,
+    "image": "celu2"
+},
+  {
+    "id": "5",
+    "title": "Aire Acondicionado Inverter ARTCOOL Frío/Calor 4500 Frigorías",
+    "category": "Climatización",
+    "description": "SKU 631221 Capacidad de refrigeración de 5275W.",
+    "fullDescription": "SKU 631221 Capacidad de refrigeración de 5275W. Capacidad de calefacción de 5420 W. Frigorías: 4500. Potencia de refrigeración de 1640W y de calefacción de 1500W. Con función deshumidificación. Compresor Dual Inverter™",
+    "price": 399.999,
+    "image": "aire"
+},
+  {
+    "id": "6",
+    "title": "Aire Splitfriocalor 5500 Frigorías Midea Msabfc 22h 01f",
+    "category": "Climatización",
+    "description": "Frio Calor, 5500 Frigorias, Control Remoto, Funcion Sleep, Silencioso",
+    "fullDescription": "Frio Calor, 5500 Frigorias, Control Remoto, Funcion Sleep, Silencioso",
+    "price": 319.499,
+    "image": "aire1"
+},
+  {
+    "id": "7",
+    "title": "Batidora Manual Liliana",
+    "category": "Hogar",
+    "description": "Batidora Manual Liliana Ab103",
+    "fullDescription": "",
+    "price": 9.999,
+    "image": "batidora"
+},
+  {
+    "id": "8",
+    "title": "Mixer Electrolux Iba20",
+    "category": "Hogar",
+    "description": "Mixer Electrolux Iba20",
+    "fullDescription": "",
+    "price": 17.999,
+    "image": "mixer"
+}
+]

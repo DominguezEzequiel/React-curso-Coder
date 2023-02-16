@@ -1,7 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 html {
-    font-size: 65.4%;
+  font-size: 65.4%;
 }
 
-.logoHeader {
-    height: 6rem;
+body {
+  overflow-x: hidden;
 }
+h1 {
+  width: 100%;
+  font-size: 2.2em;
+  margin: 40px 0;
+  color:#000;
+  text-align: center;
+}
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+header {
+  width: 100%;
+}
+.banner {
+  width: 100%;
+}
+.contPrincipal {
+  min-height: 600px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  height: 64px;
+}
+
+main {
+  width: 100%;
+}
+
