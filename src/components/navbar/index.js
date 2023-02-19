@@ -6,16 +6,16 @@ const NavBar = () => {
   return (
     <ul className="nav">
       <li>
-        <Link className="navLink" to={`/category/Televisores`}>Televisores</Link>
+        <Link className="navLink" to={`/category/televisores`}>Televisores</Link>
       </li>
       <li>
-        <Link className="navLink" to={`/category/Celulares`}>Celulares</Link>   
+        <Link className="navLink" to={`/category/celulares`}>Celulares</Link>   
       </li>
       <li>
-        <Link className="navLink" to={`/category/Climatización`}>Climatización</Link>
+        <Link className="navLink" to={`/category/climatización`}>Climatización</Link>
       </li>
       <li>
-        <Link className="navLink" to={`/category/Hogar`}>Hogar</Link>
+        <Link className="navLink" to={`/category/hogar`}>Hogar</Link>
       </li>
     </ul>
   );
